@@ -1,0 +1,21 @@
+## Build outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / Resharper
+.idea/
+*.sln.DotSettings.user
+
+## OS Files
+.DS_Store
+Thumbs.db
